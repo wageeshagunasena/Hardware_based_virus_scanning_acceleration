@@ -1,0 +1,14 @@
+--
+-- CPU32 fibonacci test (MIPS binary loaded to BRAM)
+--
+
+WIDTH = 32;
+DEPTH = 2;
+ADDRESS_RADIX = DEC;
+DATA_RADIX = HEX;
+CONTENT BEGIN
+
+0000:2008000a;
+0001:20090014;
+
+END;

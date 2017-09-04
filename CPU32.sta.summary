@@ -1,0 +1,137 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -147.627
+TNS   : -161804.501
+
+Type  : Slow 1200mV 85C Model Setup 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -137.969
+TNS   : -13699.501
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -2.570
+TNS   : -61.195
+
+Type  : Slow 1200mV 85C Model Hold 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -0.392
+TNS   : -0.392
+
+Type  : Slow 1200mV 85C Model Hold 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : 0.364
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -3.934
+TNS   : -3939.681
+
+Type  : Slow 1200mV 85C Model Removal 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : 2.997
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -65.965
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -2.693
+TNS   : -604.517
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -1.285
+TNS   : -1439.200
+
+Type  : Slow 1200mV 0C Model Setup 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -133.512
+TNS   : -146215.128
+
+Type  : Slow 1200mV 0C Model Setup 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -124.819
+TNS   : -12384.259
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -2.249
+TNS   : -50.238
+
+Type  : Slow 1200mV 0C Model Hold 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -0.354
+TNS   : -0.354
+
+Type  : Slow 1200mV 0C Model Hold 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : 0.316
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -3.431
+TNS   : -3420.188
+
+Type  : Slow 1200mV 0C Model Removal 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : 2.682
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -65.965
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -2.649
+TNS   : -594.661
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -1.285
+TNS   : -1439.200
+
+Type  : Fast 1200mV 0C Model Setup 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -73.233
+TNS   : -80163.546
+
+Type  : Fast 1200mV 0C Model Setup 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -67.954
+TNS   : -6737.368
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.780
+TNS   : -13.793
+
+Type  : Fast 1200mV 0C Model Hold 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -0.178
+TNS   : -0.178
+
+Type  : Fast 1200mV 0C Model Hold 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -1.596
+TNS   : -1568.208
+
+Type  : Fast 1200mV 0C Model Removal 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : 1.560
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -99.002
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_prescaler:clock_prescaler0|clk_cpu'
+Slack : -1.899
+TNS   : -2126.880
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_prescaler:clock_prescaler0|clk_base'
+Slack : -1.899
+TNS   : -225.899
+
+------------------------------------------------------------

@@ -1,0 +1,19 @@
+--
+-- CPU32 customized test (MIPS binary loaded to BRAM)
+-- andor implemented
+--
+
+WIDTH = 32;
+DEPTH = 4;
+ADDRESS_RADIX = DEC;
+DATA_RADIX = HEX;
+CONTENT BEGIN
+
+0000:24090310;
+0001:240a0234;
+0002:240b0209;
+0003:012a62ef;
+
+
+END;
+
